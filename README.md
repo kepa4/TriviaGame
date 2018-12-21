@@ -1,6 +1,6 @@
 # TriviaGame
 
-##unfinished
+## unfinished
 
 click on the answer of each question
 
